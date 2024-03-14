@@ -1,6 +1,6 @@
 # Gandalf Tribute Page
 
-![Gandalf](link_to_gandalf_image.jpg)
+![https://i.imgur.com/sx4QJkw.jpg]
 
 ## Overview
 
