@@ -1,6 +1,6 @@
 # Gandalf Tribute Page
 
-![_95b691e8-42dd-487d-92de-4de70bc6ad97](https://github.com/madokscharles/GandalfTributePage/assets/111252523/77052760-c11f-446a-9135-0bf145413583)
+![_95b691e8-42dd-487d-92de-4de70bc6ad97](https://github.com/madokscharles/GandalfTributePage/assets/111252523/0adc849c-6f2f-4337-854d-4828ff6d4544)
 
 ## Overview
 
