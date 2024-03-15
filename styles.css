@@ -4,6 +4,11 @@ html, body {
     color: #333;
     font-family: 'Arial', sans-serif;
 }
+hr {
+    border-top: 1px solid #737373;
+    width: 30%;
+    margin-bottom: 50px;
+}
 #title {
     text-align: center;
     align-items: center;
