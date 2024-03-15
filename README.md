@@ -1,6 +1,6 @@
 # Gandalf Tribute Page
 
-![https://i.imgur.com/sx4QJkw.jpg]
+(https://i.imgur.com/sx4QJkw.jpg)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Explore the journey of Gandalf through a visually appealing and informative web 
 
 ## Usage
 
-Visit the live Gandalf Tribute Page at [Link to your hosted page].
+Visit the live Gandalf Tribute Page at [Link to hosted page].
 
 To run the project locally:
 
