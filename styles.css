@@ -28,7 +28,6 @@ hr {
     max-width: 500px;
     margin: 0 auto;
     align-items: center;
-
 }
 #image {
     height: auto;
@@ -111,4 +110,40 @@ hr {
 }
 #tribute-info p a {
     color: #737373;
+}
+
+/*Mobile View Responsiveness*/
+@media only screen and (max-width: 600px) {
+    #img-div {
+        height: 400px;
+        max-width: 400px;
+    }
+    .about {
+        width: 400px;
+    }
+    .about > h2 {
+        font-size: 30px;
+    }
+    .about p {
+        font-size: 17px;
+        font-family: "Josefin Sans", sans-serif;
+    }
+    .about h3 {
+        font-size: 25px;
+    }
+    .about blockquote {
+        font-size: 25px;
+    }
+    #tribute-info {
+        width: 400px;
+    }
+    #tribute-info h3 {
+        font-size: 25px;
+    }
+    #tribute-info ul li {
+        font-size: 17px;
+    }
+    #tribute-info p {
+        font-size: 17px;
+    }
 }
