@@ -23,19 +23,20 @@ hr {
     margin-bottom: 40px;
     letter-spacing: 5px;
 }
-#image {
+#img-div {
     height: 500px;
     max-width: 500px;
     margin: 0 auto;
     align-items: center;
 
 }
-#image img {
-    height: 100%;
+#image {
+    height: auto;
     max-width: 100%;
+    align-items: center;
+    display: block;
 }
-#image > p {
-    margin-top: -1px;
+#img-div > p {
     color: #737373;
     font-size: 12px;
 }
