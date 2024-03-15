@@ -1,6 +1,6 @@
 # Gandalf Tribute Page
 
-![https://i.imgur.com/sx4QJkw.jpg]
+![_95b691e8-42dd-487d-92de-4de70bc6ad97](https://github.com/madokscharles/GandalfTributePage/assets/111252523/0adc849c-6f2f-4337-854d-4828ff6d4544)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Explore the journey of Gandalf through a visually appealing and informative web 
 
 ## Usage
 
-Visit the live Gandalf Tribute Page at [Link to your hosted page].
+Visit the live Gandalf Tribute Page at [Link to hosted page].
 
 To run the project locally:
 
